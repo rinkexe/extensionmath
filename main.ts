@@ -1,4 +1,5 @@
 namespace basic {
+    //% block
     export function divide(array: number[]) {
         let add = 0
         add = 0
